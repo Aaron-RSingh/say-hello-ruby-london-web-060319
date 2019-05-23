@@ -1,5 +1,5 @@
 # Build your say_hello method here
 def say_hello
-  answer = 
+  answer = "Kent Beck"
   puts "Hello #{answer}!"
 end
